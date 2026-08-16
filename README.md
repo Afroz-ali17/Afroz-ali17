@@ -37,6 +37,7 @@ Highlights repositories as proof of work.
   </picture>
 </p>
 ## Heatmap
+> Editing this section in the inspector.
 Animated year-long contribution calendar.
 ## GitHub Stats
 GitSkins stat widgets will use the **GitHub** theme.
